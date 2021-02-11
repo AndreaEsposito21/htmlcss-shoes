@@ -11,6 +11,18 @@
     font-size: 3vw;
 }
 
+nav {
+    position: fixed;
+    z-index: 1;
+    top:0;
+    left:0;
+    width:100%;
+    text-align: right;
+    padding: 10px 10px;
+    font-family: "Rubik Mono One", Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+
 .circle {
     width: 75px;
     border-radius: 50%;
@@ -18,24 +30,7 @@
     text-align: center;
     line-height: 75px;
     display: inline-block;
-    position: fixed;
-    z-index: 1;
     font-size: 1vw;
-}
-
-#uno {
-    top: 5%;
-    right: 15%;
-}
-
-#due {
-    top: 5%;
-    right: 10%;
-}
-
-#tre {
-    top: 5%;
-    right: 5%;
 }
 
 /* SCARPE */
