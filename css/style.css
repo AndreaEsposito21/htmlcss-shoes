@@ -12,7 +12,6 @@
 }
 
 .circle {
-    height: 75px;
     width: 75px;
     border-radius: 50%;
     background-color: white;
@@ -20,28 +19,23 @@
     line-height: 75px;
     display: inline-block;
     position: fixed;
-    top: 20px;
-    right: 300px;
     z-index: 1;
     font-size: 1vw;
 }
 
 #uno {
-    /* display: inline-block; */
-    top: 20px;
-    right: 300px;
+    top: 5%;
+    right: 15%;
 }
 
 #due {
-    /* display: inline-block; */
-    top: 20px;
-    right: 150px;
+    top: 5%;
+    right: 10%;
 }
 
 #tre {
-    /* display: inline-block; */
-    top: 20px;
-    right: 30px;
+    top: 5%;
+    right: 5%;
 }
 
 /* SCARPE */
